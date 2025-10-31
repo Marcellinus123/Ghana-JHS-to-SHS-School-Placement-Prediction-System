@@ -151,4 +151,44 @@ File Upload | CSV / Excel student records |
 ---
 
 ## Folder Structure (Typical Example)
+/school_placement_system
+├── index.php
+├── login.php
+├── upload_records.php
+├── students.php
+├── predict.php
+├── ml/
+│ ├── train.php
+│ ├── model.php
+│ └── php-ml config files
+├── db/
+│ └── database.sql
+├── css/
+├── js/
+├── reports/
+├── pdf/
+└── README.md
+
+
+---
+
+## Future Features
+
+- AI-powered placement score visualization  
+- BECE raw score upload support  
+- API to integrate with SHS database for validation  
+- Parental dashboard login  
+- SMS notification module  
+- Machine-learning model upgrade (Python micro-service)  
+
+---
+
+## Summary
+
+This project brings **predictive analytics into Ghana JHS education** using accessible technologies.  
+It empowers schools to guide students more effectively by analyzing academic history and making informed placement predictions — before official results are released.
+
+The platform blends **education**, **data analysis**, and **ML logic** to support informed decisions in Ghana's school placement ecosystem.
+
+> A smart educational advisory and placement prediction tool for Ghana JHS institutions — driven by PHP, MySQLi, and PHP-ML.
 
