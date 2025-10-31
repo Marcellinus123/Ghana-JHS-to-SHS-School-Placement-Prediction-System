@@ -29,7 +29,7 @@ It does **not replace official GES placement** but aids **prediction, counseling
 
 ## Key Features
 
-### ✅ JHS Administrator Portal
+### JHS Administrator Portal
 - Secure login & account creation for schools/JHS admins  
 - Student management dashboard  
 - Upload student academic scores:  
@@ -40,7 +40,7 @@ It does **not replace official GES placement** but aids **prediction, counseling
 - Edit/update student records  
 - View placement prediction reports  
 
-### ✅ ML-Powered Placement Insight
+### ML-Powered Placement Insight
 - Predicts likely SHS category student could fall into  
 - Suggests possible SHS programme such as:  
   - Science  
@@ -52,14 +52,14 @@ It does **not replace official GES placement** but aids **prediction, counseling
 - Flags students at risk academically  
 - Performance trend analysis over 3 academic years  
 
-### ✅ Student Results Summary Dashboard
+###  Student Results Summary Dashboard
 - Graph-based performance visualization  
 - Average academic score computation  
 - Weighted calculation for final year & mock results  
 - Academic growth or decline score  
 - ML score confidence indicator  
 
-### ✅ Admin Controls
+###  Admin Controls
 - School user authentication  
 - Manage school student dataset  
 - Download PDF/Excel prediction reports  
@@ -102,21 +102,21 @@ Subject Strength | Sciences, Business, Arts, etc.
 
 ## Use Case & Value
 
-### 🎓 For Schools
+###  For Schools
 - Early student counselling  
 - Improve SHS selection form accuracy  
 - Identify strong & weak academic areas  
 - Guide students with realistic expectations  
 
-### 👨‍👩‍👧 For Parents
+###  For Parents
 - Understand child's placement potential  
 - Early planning for school selection and fees  
 
-### 🧑‍🏫 For Teachers
+###  For Teachers
 - Track class performance trends  
 - Provide targeted academic support  
 
-### 🇬🇭 For Ghana Education Context
+### For Ghana Education Context
 - Supplementary school-based CSSPS-like advisory  
 - Encourages data-driven guidance culture  
 
