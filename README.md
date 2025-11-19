@@ -151,6 +151,7 @@ File Upload | CSV / Excel student records |
 ---
 
 ## Folder Structure (Typical Example)
+```
 /school_placement_system
 ├── index.php
 ├── login.php
@@ -158,16 +159,18 @@ File Upload | CSV / Excel student records |
 ├── students.php
 ├── predict.php
 ├── ml/
-│ ├── train.php
-│ ├── model.php
-│ └── php-ml config files
+│   ├── train.php
+│   ├── model.php
+│   └── php-ml config files
 ├── db/
-│ └── database.sql
+│   └── database.sql
 ├── css/
 ├── js/
 ├── reports/
 ├── pdf/
 └── README.md
+```
+
 
 
 ---
